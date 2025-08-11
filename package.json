@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-weread",
+  "name": "@iflow-mcp/mcp-server-weread",
   "version": "0.2.2",
   "description": "A WeRead MCP Server",
   "private": false,
